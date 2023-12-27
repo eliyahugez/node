@@ -1,0 +1,7 @@
+/node_modules
+**/prodution.js
+/.dockerignore
+/docker-compose.yml
+/Dockerfile
+/config
+/logger/loggers/logs
